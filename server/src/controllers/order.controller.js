@@ -1,4 +1,4 @@
-import User from 'models/user.model'
+import Order from 'models/order.model'
 import to from 'await-to-js'
 
 //TODO: Implement the following functions (Hint: look at user.controller.js)
